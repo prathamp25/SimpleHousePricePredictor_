@@ -1,7 +1,7 @@
 # SimpleHousePricePredictor_
 ## Features Used:
-Square Feet
-Bedrooms
+Square Feet.
+Bedrooms.
 Bathrooms
 Age of House
 Distance from City Center
